@@ -1,0 +1,5 @@
+Should be able to:
+
+1) yarn install
+2) yarn start
+3) Once your browser opens, select which device to test on ("Run on iOS simulator") recommended.
